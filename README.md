@@ -1,1 +1,2 @@
 # AI_chat
+Communication with the chat is written in Java, and the conversion of text into speech is written in Python. I used sshell code to combine them. This is not the final version of the program, I'm still working on it, so there are a lot of extra things in the code. It is likely that you will not be able to run the code by yourself because you need to keep personal keys to openai and elevenlabs, in which case you can watch the video I recorded.
